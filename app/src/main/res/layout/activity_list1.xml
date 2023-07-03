@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".List1Activity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/img1"
+            android:layout_width="400dp"
+            android:layout_height="400dp"
+            android:background="@drawable/hamil" />
+        </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="10dp"
+        android:text="Berenang Untuk Ibu Hamil"
+        android:textColor="#1C1C1C"
+        android:textSize="25dp"
+        android:textStyle="bold">
+
+    </TextView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="Dianjurkan untuk berenang di dalam kolam yang kedalaman airnya tidak melebihi batas dada ibu sendiri. Sebab jika ibu tidak bisa berenang, ibu bisa melakukannya dengan hanya berendam di dalam kolam. Jangan terlalu sering berenang saat hamil, karena dianjurkan hanya dilakukan maksimal 3 kali dalam seminggu."
+            android:textColor="#1C1C1C"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:textSize="14dp"
+            android:layout_height="match_parent">
+
+        </TextView>
+    </LinearLayout>
+
+</LinearLayout>

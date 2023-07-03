@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "374330356848",
+    "firebase_url": "https://konsultasihamil-c921b-default-rtdb.firebaseio.com",
+    "project_id": "konsultasihamil-c921b",
+    "storage_bucket": "konsultasihamil-c921b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374330356848:android:2a9db0b6bb97c2213330b5",
+        "android_client_info": {
+          "package_name": "com.example.chatmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjU34Wwgs_sAdug69VTPqmaN3OVj1lzZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374330356848:android:43d9d9424f4617db3330b5",
+        "android_client_info": {
+          "package_name": "com.example.konsultasihamil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjU34Wwgs_sAdug69VTPqmaN3OVj1lzZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
